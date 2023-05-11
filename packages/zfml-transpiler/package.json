@@ -1,0 +1,21 @@
+{
+  "name": "zfml-transpiler",
+  "version": "1.0.5",
+  "description": "template compiler for zfml",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WANGZHEfzto/zfml-transpiler.git"
+  },
+  "keywords": [
+    "zfml",
+    "transpiler",
+    "compiler"
+  ],
+  "author": "wz",
+  "license": "MIT",
+  "homepage": "https://github.com/WANGZHEfzto/zfml-transpiler.git",
+  "dependencies": {
+    "babylon": "^6.18.0"
+  }
+}
